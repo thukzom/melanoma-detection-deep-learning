@@ -2,7 +2,7 @@
 
 🚀 **Live Demo:** https://huggingface.co/spaces/yujii0/melanoma
 
-📄 **Research Poster:** [Poster](poster.pdf)
+📄 **Research Poster:** [Poster](poster.pptx)
 
 📓 **Jupyter Notebook:** [Melanoma_Detection.ipynb](Melanoma_Detection.ipynb)
 
