@@ -1,5 +1,11 @@
 # 🩺 Melanoma Detection Using Deep Learning
 
+🚀 **Live Demo:** https://huggingface.co/spaces/yujii0/melanoma
+
+📄 **Research Poster:** [Poster](poster.pdf)
+
+📓 **Jupyter Notebook:** [Melanoma_Detection.ipynb](Melanoma_Detection.ipynb)
+
 ## Overview
 
 Early detection of melanoma significantly improves treatment outcomes, yet accurate diagnosis remains challenging due to subtle visual differences between benign and malignant skin lesions. This project develops a machine learning pipeline for melanoma classification using dermoscopic images and patient metadata from the SIIM-ISIC 2020 dataset.
